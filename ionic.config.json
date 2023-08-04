@@ -1,0 +1,7 @@
+{
+  "name": "mysteryfy-vue-pwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
